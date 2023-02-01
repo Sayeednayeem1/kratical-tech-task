@@ -15,23 +15,44 @@ const FAQ = () => {
                         What are the benefits of penetration Testing?
                     </div>
                     <div className="collapse-content">
-                        <p>tabIndex={0} attribute is necessary to make the div focusable</p>
+                        <p>A pen test(also known as a penetration test) i a security assessment of
+                            an IT system, where potential vulnerabilities are identified by attempting
+                            to exploit them. It can be done using human and automated methods and
+                            may includes testing servers, web app, wireless networks, and other
+                            areas of potential exposures. The NIST SP 800-115 guide is often used to
+                            develop appropriate security process and procedures and can be a
+                            helpful resource for pen testers when assessing organization
+                            vulnerabilities.</p>
                     </div>
                 </div>
-                <div tabIndex={0} className="collapse collapse-arrow bg-base-100 rounded-box">
+                <div tabIndex={2} className="collapse collapse-arrow bg-base-100 rounded-box">
                     <div className="collapse-title text-xl font-medium">
                         How does a penetration test work?
                     </div>
                     <div className="collapse-content">
-                        <p>tabIndex={0} attribute is necessary to make the div focusable</p>
+                        <p> A pen test(also known as a penetration test) i a security assessment of
+                            an IT system, where potential vulnerabilities are identified by attempting
+                            to exploit them. It can be done using human and automated methods and
+                            may includes testing servers, web app, wireless networks, and other
+                            areas of potential exposures. The NIST SP 800-115 guide is often used to
+                            develop appropriate security process and procedures and can be a
+                            helpful resource for pen testers when assessing organization
+                            vulnerabilities.</p>
                     </div>
                 </div>
-                <div tabIndex={0} className="collapse collapse-arrow bg-base-100 rounded-box">
+                <div tabIndex={4} className="collapse collapse-arrow bg-base-100 rounded-box">
                     <div className="collapse-title text-xl font-medium">
                         What are the factors while Performing open testing?
                     </div>
                     <div className="collapse-content">
-                        <p>tabIndex={0} attribute is necessary to make the div focusable</p>
+                        <p>A pen test(also known as a penetration test) i a security assessment of
+                            an IT system, where potential vulnerabilities are identified by attempting
+                            to exploit them. It can be done using human and automated methods and
+                            may includes testing servers, web app, wireless networks, and other
+                            areas of potential exposures. The NIST SP 800-115 guide is often used to
+                            develop appropriate security process and procedures and can be a
+                            helpful resource for pen testers when assessing organization
+                            vulnerabilities.</p>
                     </div>
                 </div>
             </div>
