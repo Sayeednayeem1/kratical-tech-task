@@ -9,7 +9,7 @@ const CodeReviewCard = () => {
                     <div>
                         <h2 className='text-2xl font-bold'>Code Review</h2>
                         <hr className='h-1 w-16 bg-orange-600 mb-4 mt-2' />
-                        <p><span className='font-bold'>A pen test</span>(also known as a penetration test) i a security assessment of <br /> an IT system, where potential vulnerabilities are identified by attempting <br /> to exploit them. It can be done using human and automated methods and <br /> may includes testing servers, web app, wireless networks, and other <br /> areas of potential exposures. The <span className='font-bold'>NIST SP 800-115 guide</span> is often used to <br /> develop appropriate security process and procedures and can be a <br /> helpful resource for pen testers when assessing organization <br /> vulnerabilities.</p>
+                        <p>Code review examine source code directly and reveals flaws that were <br/> missed during the first development stage. It is the procedure of auditing <br/> an applications source code to make sure necessary security <br/> measures are present, performing as intended, and having been <br/> activated appropriately.<br/> They are methodical evaluation of the code made to find defects, <br/> improve the quality of the code and assist developers in learning the <br/> source code.</p>
                     </div>
                     <div>
                         <img className='w-36 md:w-60 lg:w-96' src={CodeReviewImage} alt="" />
