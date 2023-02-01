@@ -1,7 +1,6 @@
-.test {
-    background-image: url('../../assets/images/banner\ \(4\).webp');
-    /* background-size: 90% 100%;
+.bgImage{
+    background-image: url("../../assets//images//banner\ \(4\).webp");
     background-repeat: no-repeat;
-    background-position: initial;
-    height: 500px; */
+    min-height: 900px;
+
 }

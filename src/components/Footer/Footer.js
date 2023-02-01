@@ -4,8 +4,10 @@ import { AiOutlineMail } from "react-icons/ai";
 
 const Footer = () => {
     return (
-        <div className='bg-neutral'>
-            <div className='max-w-5xl mx-auto'>
+        <div className='bg-neutral mt-12'>
+            <div className='max-w-5xl mx-auto py-12'>
+                <h1 className='text-orange-600 font-bold text-center'>CONTACT US</h1>
+                <hr  className='mt-2 mb-4' />
                 <footer className="footer grid grid-cols-1 lg:grid-cols-3 p-10 text-neutral-content">
                     <div>
                         <span className=" font-bold text-lg "> <span class="fi fi-us mr-2"></span>UNITED STATES</span>
