@@ -7,13 +7,13 @@ const WhyChooseUs = () => {
         <div className='container mx-auto  py-10'>
             <div className='flex justify-between items-center'>
                 <div>
-                    <h2 className='text-2xl font-bold'>Why Choose Us <h3> HTML</h3></h2>
+                    <h2 className='text-2xl font-bold'>Why Choose Us </h2>
                     <hr className='h-1 w-16 bg-orange-600 mb-4 mt-2' />
                     <p> <span className='text-4xl text-green-700'>&#x2713;</span> Creating Compliance Policies and Security Strategies</p>
-                    <p> <span className='text-4xl text-green-700'>&#x2713;</span> Creating Compliance Policies and Security Strategies</p>
-                    <p> <span className='text-4xl text-green-700'>&#x2713;</span> Creating Compliance Policies and Security Strategies</p>
-                    <p> <span className='text-4xl text-green-700'>&#x2713;</span> Creating Compliance Policies and Security Strategies</p>
-                    <p> <span className='text-4xl text-green-700'>&#x2713;</span> Creating Compliance Policies and Security Strategies</p>
+                    <p> <span className='text-4xl text-green-700'>&#x2713;</span> Sound record of delivering excellent cyber security solutions</p>
+                    <p> <span className='text-4xl text-green-700'>&#x2713;</span> Precise Gap Analysis by our expert Pentesters</p>
+                    <p> <span className='text-4xl text-green-700'>&#x2713;</span> Thorough SEcurity Assessment</p>
+                    <p> <span className='text-4xl text-green-700'>&#x2713;</span> Safeguard people, process and technologies</p>
                 </div>
                 <div>
                     <img className='w-36 md:w-60 lg:w-96' src={WhyChooseUsImage} alt="" />
