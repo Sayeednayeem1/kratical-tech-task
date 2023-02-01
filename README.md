@@ -1,3 +1,9 @@
+This is an intern Task application
+I have did this task for Kratical Tech Front End Web Developer internship position.
+
+Live Website Link: https://kratical-task-5704b9.netlify.app
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
