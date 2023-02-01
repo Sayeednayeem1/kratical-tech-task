@@ -4,9 +4,9 @@ const FAQ = () => {
     return (
         <div className='max-w-5xl mx-auto'>
             <div className='flex justify-center items-center mt-8 mb-10'>
-                <hr className='h-1 w-16 bg-orange-600 mb-4 mt-2' />
+                <hr className='h-1 w-16 bg-orange-600' />
                 <h1 className='text-2xl font-bold px-4'>FAQ'S</h1>
-                <hr className='h-1 w-16 bg-orange-600 mb-4 mt-2' />
+                <hr className='h-1 w-16 bg-orange-600 ' />
             </div>
 
             <div>

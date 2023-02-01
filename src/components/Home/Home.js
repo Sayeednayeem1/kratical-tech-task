@@ -3,6 +3,7 @@ import Banner from '../Banner/Banner';
 import BenefitsOfCodeReview from '../BenefitsOfCodeReview/BenefitsOfCodeReview';
 import CodeReviewCard from '../CodeReviewCard/CodeReviewCard';
 import FAQ from '../FAQ/FAQ';
+import Footer from '../Footer/Footer';
 import ParentFolder from '../KraticalDetails/ParentFolder';
 import Overview from '../Overview/Overview';
 
@@ -15,6 +16,7 @@ const Home = () => {
             <BenefitsOfCodeReview />
             <CodeReviewCard />
             <FAQ />
+            <Footer />
         </div>
     );
 };
