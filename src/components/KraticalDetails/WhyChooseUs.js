@@ -1,4 +1,5 @@
 import React from 'react';
+import { FaPhoneAlt } from "react-icons/fa";
 import WhyChooseUsImage from '../../assets/images/Why Choose us.webp';
 
 const WhyChooseUs = () => {
@@ -13,6 +14,9 @@ const WhyChooseUs = () => {
                 <div>
                     <img className='w-36 md:w-60 lg:w-96' src={WhyChooseUsImage} alt="" />
                 </div>
+            </div>
+            <div className='flex justify-center'>
+                <button className='btn bg-[#F60062] mt-6 border-none rounded-3xl px-16'> <FaPhoneAlt className='mr-4'/>  Book A Call</button>
             </div>
         </div>
     );

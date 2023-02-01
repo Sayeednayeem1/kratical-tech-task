@@ -7,7 +7,6 @@ const ParentFolder = () => {
         <div className='bg-[#F3F3F2]'>
             <WhyKratical />
             <WhyChooseUs />
-            <button></button>
         </div>
     );
 };

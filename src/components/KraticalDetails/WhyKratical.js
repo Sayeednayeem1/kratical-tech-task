@@ -3,7 +3,7 @@ import WhyKraticalImage from '../../assets/images/Why Kratikal.webp';
 
 const WhyKratical = () => {
     return (
-        <div className='container mx-auto mt-10'>
+        <div className='container mx-auto mt-10 py-20'>
             <div className='flex justify-between items-center'>
                 <div>
                     <img className='w-36 md:w-60 lg:w-96' src={WhyKraticalImage} alt="" />
