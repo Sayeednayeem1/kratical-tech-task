@@ -11,7 +11,7 @@ const WhyKratical = () => {
                 <div>
                     <h2 className='text-2xl font-bold'>Why Kratical</h2>
                     <hr className='h-1 w-16 bg-orange-600 mb-4 mt-2' />
-                    <p><span className='font-bold'>A pen test</span>(also known as a penetration test) i a security assessment of <br /> an IT system, where potential vulnerabilities are identified by attempting <br /> to exploit them. It can be done using human and automated methods and <br /> may includes testing servers, web app, wireless networks, and other <br /> areas of potential exposures. The <span className='font-bold'>NIST SP 800-115 guide</span> is often used to <br /> develop appropriate security process and procedures and can be a <br /> helpful resource for pen testers when assessing organization <br /> vulnerabilities.</p>
+                    <p><span className='font-bold'>Kratical Tech</span>offers manual and automated penetration testing services <br/> to identify vulnerabilities in your system. Our manual testing team uses <br/> techniques like social engineering, pishing and physical security testing <br/> for a more in-depth evaluation. Our automated testing approach uses <br/> software tools to simulate an attack, but many not detect all <br/> vulnerabilities. Together, both methods provide a comprehensive and <br/> thorough security assessment.</p>
                 </div>
             </div>
         </div>
