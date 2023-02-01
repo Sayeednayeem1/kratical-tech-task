@@ -8,9 +8,9 @@ import icon05 from '../../assets/images/icon05.webp';
 const BenefitsOfCodeReview = () => {
     return (
         <div className='py-14'>
-            <div>
+            <div className='mb-12'>
                 <h1 className='text-3xl font-bold text-center'>Benefits Associated With Code Review</h1>
-                <hr className='h-1 w-20 bg-orange-600 mb-4 mt-2 mx-auto' />
+                <hr className='h-1 w-20 bg-orange-600 mt-2 mx-auto' />
             </div>
             <div className='grid grid-cols-1 md:grid-cols-3 lg:grid-cols-5 gap-8  container mx-auto'>
                 <div className='bg-orange-400 py-6 rounded-2xl'>
