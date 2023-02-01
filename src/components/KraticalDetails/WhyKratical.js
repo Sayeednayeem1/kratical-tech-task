@@ -1,4 +1,5 @@
 import React from 'react';
+import'animate.css';
 import WhyKraticalImage from '../../assets/images/Why Kratikal.webp';
 
 const WhyKratical = () => {

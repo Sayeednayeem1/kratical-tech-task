@@ -1,5 +1,6 @@
 import React from 'react';
 import './Banner.css';
+import 'animate.css';
 import Logo from '../../assets/images/kt logo.webp';
 import circle from '../../assets/images/circle.png';
 
@@ -11,7 +12,7 @@ const Banner = () => {
                     <img src={Logo} alt="" />
                 </div>
                 <div>
-                    <div className='container mx-auto flex justify-between items-center'>
+                    <div className='container mx-auto flex justify-between items-center animate__animated animate__backInLeft'>
                         <div>
                             <h2 className='font-bold text-orange-600'>Penetration Testing</h2>
                             <h1 className='text-2xl font-bold mt-4'>Secure Your IT systems with our <br /> expert penetration testing services</h1>
